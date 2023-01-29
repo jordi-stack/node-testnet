@@ -29,7 +29,7 @@ wget -O wormholes_install.sh https://docker.wormholes.com/wormholes_install.sh &
 
 ### Monitoring
 ```
-wget -O monitor.sh https://raw.githubusercontent.com/dwentz-inc/wormholes/main/monitor.sh && chmod +x monitor.sh && ./monitor.sh
+wget -O monitor.sh https://raw.githubusercontent.com/dwentz-inc/node-testnet/main/wormholes/monitor.sh && chmod +x monitor.sh && ./monitor.sh
 ```
 
 ### Next ? Become A Validator
