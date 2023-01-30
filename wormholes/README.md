@@ -27,6 +27,10 @@ wget -O monitor.sh https://raw.githubusercontent.com/dwentz-inc/node-testnet/mai
 ```
 wormholes version
 ```
+ * check logs node
+```
+journalctl -fu wormholesd -o cat
+```
   * check private key
 ```
 cat .wormholes/wormholes/nodekey
