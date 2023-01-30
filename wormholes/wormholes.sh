@@ -47,7 +47,7 @@ ExecStart= /usr/local/bin/wormholes\
   --datadir $HOME/.wormholes \
   --devnet \
   --mine \
-  --miner.threads 2 \
+  --miner.threads 3 \
   --rpc \
   --rpccorsdomain "*" \
   --rpcvhosts "*" \
